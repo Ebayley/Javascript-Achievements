@@ -1,0 +1,12 @@
+.black {
+    background-color: black;
+}
+
+.white {
+    background-color: wheat;
+}
+
+td {
+    width: 80px;
+    height: 80px;
+}
