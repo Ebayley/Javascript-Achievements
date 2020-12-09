@@ -1,0 +1,23 @@
+#day {
+    background-color: rgb(128, 213, 185);
+}
+#month {
+    background-color: rgb(228, 164, 209);
+}
+#year {
+    background-color: rgb(175, 134, 214);
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 1vw;
+    
+  }
+  .grid-item {
+    width: 30%;
+    padding: 30%;
+    font-size: 2vw;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+  }
